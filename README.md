@@ -9,4 +9,6 @@ Sub-Domains - Separate applications or feautures your must support or interact w
 Context Mapping - The process of identifying bounded contexts and their relationships to one another.<br />
 Shared Kernel - Part of the model that is shared by two or more teams, who agree not to change it without collaboration.<br />
 Ubiquitous Language - A language using terms from the domain model that programmers and domain experts use to discuss the system.<br />
+<br />
+<b>DOMAIN DOMAIN DOMAIN </b>
 
